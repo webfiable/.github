@@ -53,11 +53,11 @@ Hoy Webfiable ofrece evaluación rápida por HTML desde [app.webfiable.com](http
 
 Webfiable está diseñado para que no tengas que confiar a ciegas:
 
-- **Publicado en WordPress.org:** el plugin pasó la revisión de código del directorio oficial antes de ser aceptado.
-- **Código abierto** bajo licencia GPL v3.
+- **El plugin es ligero y transparente:** código abierto bajo GPL v3, revisado y publicado en el directorio oficial de WordPress.org. Su única función es exponer un endpoint cifrado con el inventario de software de tu sitio. No ejecuta análisis, no corre procesos en segundo plano y no afecta el rendimiento.
+- **El análisis ocurre fuera de tu sitio:** un proceso en los servidores de Webfiable consulta el endpoint, ejecuta las evaluaciones y te envía el reporte. No se requiere acceso al panel de administración ni credenciales.
 - **Consentimiento explícito:** el endpoint está deshabilitado por defecto y solo se activa con tu autorización.
 - **Recopilación mínima:** solo inventario de software (versiones de WordPress, plugins y temas). No se accede a credenciales, contenido ni datos de usuarios.
-- **Cifrado híbrido:** cada transmisión se protege con AES-256-CBC + RSA-2048 con IV único por respuesta. Solo Webfiable puede descifrar la información.
+- **Cifrado en cada transmisión:** AES-256-CBC + RSA-2048 con IV único por respuesta. Solo Webfiable puede descifrar la información.
 
 ## Enlaces
 

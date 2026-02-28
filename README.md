@@ -19,9 +19,11 @@ Webfiable es un servicio gratuito que analiza la configuración y seguridad de s
 
 Funciona a través de dos vías complementarias:
 
-- **Evaluación rápida:** Análisis inmediato desde [app.webfiable.com](https://app.webfiable.com). Revisa el HTML del sitio para identificar enlaces rotos, contenido mixto, exposición de directorios, protección del login y estado de plugins y versión de WordPress. No requiere instalación.
+- **Evaluación rápida:** Ingresa la URL de tu sitio en [app.webfiable.com](https://app.webfiable.com) y obtén un diagnóstico inmediato de enlaces rotos, contenido mixto, directorios expuestos, protección del login y estado de plugins. Sin instalar nada.
 
-- **Plugin para WordPress:** [Webfiable Info](https://wordpress.org/plugins/webfiable-info/) se instala en el sitio y envía informes semanales por correo electrónico. Ofrece detección más precisa al acceder a la información real del entorno (sin depender de inferencia por HTML). Los datos se transmiten con cifrado híbrido AES-256-CBC + RSA-2048: solo Webfiable puede descifrarlos.
+- **Plugin para WordPress:** Instala [Webfiable Info](https://wordpress.org/plugins/webfiable-info/) y recibe informes semanales por correo con detección precisa basada en los datos reales de tu entorno, no en inferencia por HTML.
+
+  ![Versión](https://img.shields.io/wordpress/plugin/v/webfiable-info?label=versi%C3%B3n&color=blue) ![Probado hasta WordPress](https://img.shields.io/wordpress/plugin/tested/webfiable-info?label=probado%20hasta%20WP&color=green) ![Licencia](https://img.shields.io/badge/licencia-GPL%20v3-blue)
 
 El proyecto está en fase beta pública. No hay costo, ni suscripción, ni transacciones comerciales.
 
@@ -46,6 +48,16 @@ Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/fcovecino/).
 Hoy Webfiable ofrece evaluación rápida por HTML desde [app.webfiable.com](https://app.webfiable.com) y reportes semanales detallados a través del [plugin instalable](https://wordpress.org/plugins/webfiable-info/), cubriendo enlaces rotos, contenido mixto, directorios expuestos, protección de login y estado de plugins y versión de WordPress.
 
 **Próximamente:** evaluación de versión PHP · evaluación de temas instalados · encabezados HTTP de seguridad · retroalimentación integrada en reportes.
+
+## Seguridad y privacidad
+
+Webfiable está diseñado para que no tengas que confiar a ciegas:
+
+- **Publicado en WordPress.org:** el plugin pasó la revisión de código del directorio oficial antes de ser aceptado.
+- **Código abierto** bajo licencia GPL v3.
+- **Consentimiento explícito:** el endpoint está deshabilitado por defecto y solo se activa con tu autorización.
+- **Recopilación mínima:** solo inventario de software (versiones de WordPress, plugins y temas). No se accede a credenciales, contenido ni datos de usuarios.
+- **Cifrado híbrido:** cada transmisión se protege con AES-256-CBC + RSA-2048 con IV único por respuesta. Solo Webfiable puede descifrar la información.
 
 ## Enlaces
 

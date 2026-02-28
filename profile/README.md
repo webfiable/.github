@@ -37,7 +37,7 @@ Webfiable es el laboratorio donde pruebo esas ideas. Un servicio funcional, con 
 
 ## Sobre mí
 
-He construido mi carrera en la intersección entre tecnología y negocio, con experiencia en Latinoamérica y Europa. He pasado por roles técnicos, consultoría, ventas enterprise y dirección general en hyperscalers globales, Big Four, consultoras de TI y de ciberseguridad, fabricantes de software, y una startup SaaS que cofundé como CTO. Hoy lidero Customer Success para EMEA en un fabricante de software de gestión de TI y ciberseguridad.
+He construido mi carrera en la intersección entre tecnología y negocio, con experiencia en Latinoamérica y Europa. He pasado por roles técnicos, consultoría, ventas enterprise y dirección general en hyperscalers globales, Big Four, consultoras de TI y de ciberseguridad, y una startup SaaS que cofundé como CTO. Hoy lidero Customer Success para EMEA en un fabricante de software de gestión de TI y ciberseguridad.
 
 El hilo que conecta todo eso es el mismo: entender qué puede hacer la tecnología por un negocio y tomar decisiones con criterio sobre ello. Mantengo capacidades de desarrollo activas porque esa cercanía al detalle técnico es lo que me permite investigar las nuevas tendencias y sus potenciales efectos en modelos de negocio. Webfiable es donde convergen esa curiosidad técnica y la visión ejecutiva.
 

@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://webfiable.com/wp-content/uploads/2025/01/logo2.png" alt="Webfiable" width="280">
+  <img src="https://webfiable.com/wp-content/uploads/2025/01/icon2.png" alt="Webfiable" width="60">
 </p>
+<h1 align="center">WEBFIABLE</h1>
 
 <p align="center">
   <strong>Seguridad y salud para WordPress, impulsado por investigación en IA aplicada a negocio</strong>
@@ -48,12 +49,7 @@ Hoy Webfiable ofrece evaluación rápida por HTML desde [app.webfiable.com](http
 
 ## Enlaces
 
-| | |
-|---|---|
-| 🌐 Web | [webfiable.com](https://webfiable.com) |
-| 🔍 Evaluación rápida | [app.webfiable.com](https://app.webfiable.com) |
-| 🔌 Plugin | [Webfiable Info en WordPress.org](https://wordpress.org/plugins/webfiable-info/) |
-| 📬 Contacto | [soporte@webfiable.com](mailto:soporte@webfiable.com) |
+🌐 [webfiable.com](https://webfiable.com) · 🔍 [Evaluación rápida](https://app.webfiable.com) · 🔌 [Plugin en WordPress.org](https://wordpress.org/plugins/webfiable-info/) · 📬 [soporte@webfiable.com](mailto:soporte@webfiable.com)
 
 ---
 

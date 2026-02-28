@@ -15,7 +15,7 @@
 
 ## Qué es Webfiable
 
-Webfiable es un servicio gratuito que analiza la configuración y seguridad de sitios WordPress. Detecta vulnerabilidades, configuraciones problemáticas y versiones desactualizadas, y entrega recomendaciones concretas para corregirlas.
+Webfiable es un servicio que analiza la configuración y seguridad de sitios WordPress. Detecta vulnerabilidades, configuraciones problemáticas y versiones desactualizadas, y entrega recomendaciones concretas para corregirlas.
 
 Funciona a través de dos vías complementarias:
 
@@ -29,7 +29,7 @@ El proyecto está en fase beta pública. No hay costo, ni suscripción, ni trans
 
 ## Por qué existe
 
-Webfiable es un proyecto de investigación personal. Mi objetivo no es construir un negocio de seguridad WordPress, sino entender de forma práctica cómo la inteligencia artificial puede acelerar, y en algunos casos transformar, los modelos de negocio digital.
+Webfiable es un proyecto de investigación personal. Mi objetivo es entender de forma práctica cómo la inteligencia artificial puede acelerar, y en algunos casos transformar, los modelos de negocio digital.
 
 La pregunta que me interesa es concreta: si hoy una persona puede apoyarse en IA para cubrir desarrollo de software, infraestructura, marketing, operaciones y atención al usuario, ¿qué cambia en la forma de evaluar, construir y escalar una iniciativa digital?
 
@@ -37,7 +37,7 @@ Webfiable es el laboratorio donde pruebo esas ideas. Un servicio funcional, con 
 
 ## Sobre mí
 
-Llevo más de dos décadas en la intersección entre tecnología y negocio, con experiencia en Latinoamérica y Europa. He pasado por roles técnicos, consultoría, ventas enterprise y dirección general en hyperscalers globales, Big Four, consultoras de TI y de ciberseguridad, fabricantes de software, y una startup SaaS que cofundé como CTO. Hoy lidero Customer Success para EMEA en un fabricante de software de gestión de TI y ciberseguridad.
+He construido mi carrera en la intersección entre tecnología y negocio, con experiencia en Latinoamérica y Europa. He pasado por roles técnicos, consultoría, ventas enterprise y dirección general en hyperscalers globales, Big Four, consultoras de TI y de ciberseguridad, fabricantes de software, y una startup SaaS que cofundé como CTO. Hoy lidero Customer Success para EMEA en un fabricante de software de gestión de TI y ciberseguridad.
 
 El hilo que conecta todo eso es el mismo: entender qué puede hacer la tecnología por un negocio y tomar decisiones con criterio sobre ello. Mantengo capacidades de desarrollo activas porque esa cercanía al detalle técnico es lo que me permite investigar las nuevas tendencias y sus potenciales efectos en modelos de negocio. Webfiable es donde convergen esa curiosidad técnica y la visión ejecutiva.
 

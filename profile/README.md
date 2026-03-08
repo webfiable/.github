@@ -45,9 +45,11 @@ Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/fcovecino/).
 
 ## Estado actual y roadmap
 
-Hoy Webfiable ofrece evaluación rápida por HTML desde [app.webfiable.com](https://app.webfiable.com) y reportes semanales detallados a través del [plugin instalable](https://wordpress.org/plugins/webfiable-info/), cubriendo enlaces rotos, contenido mixto, directorios expuestos, protección de login y estado de plugins y versión de WordPress.
+Hoy Webfiable ofrece evaluación rápida por HTML desde [app.webfiable.com](https://app.webfiable.com) y reportes semanales detallados a través del [plugin instalable](https://wordpress.org/plugins/webfiable-info/), cubriendo enlaces rotos, contenido mixto, directorios expuestos, protección de login, estado de plugins y versión de WordPress, análisis de conexión TLS/SSL y encabezados HTTP de seguridad.
 
-**Próximamente:** evaluación de versión PHP · evaluación de temas instalados · encabezados HTTP de seguridad · retroalimentación integrada en reportes.
+**Próximamente:** evaluación de versión PHP · evaluación de temas instalados · retroalimentación integrada en reportes.
+
+📋 [Changelog completo](CHANGELOG.md)
 
 ## Seguridad y privacidad
 

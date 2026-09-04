@@ -63,7 +63,7 @@ Webfiable está diseñado para que no tengas que confiar a ciegas:
 
 ## Enlaces
 
-🌐 [webfiable.com](https://webfiable.com) · 🔍 [Evaluación rápida](https://app.webfiable.com) · 🔌 [Plugin en WordPress.org](https://wordpress.org/plugins/webfiable-info/) · 📬 [soporte@webfiable.com](mailto:soporte@webfiable.com)
+🌐 [webfiable.com](https://webfiable.com) · 🔍 [Evaluación rápida](https://siteaudit.webfiable.com) · 🔌 [Plugin en WordPress.org](https://wordpress.org/plugins/webfiable-info/) · 📬 [soporte@webfiable.com](mailto:soporte@webfiable.com)
 
 ---
 

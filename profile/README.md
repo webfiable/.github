@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://webfiable.com">Web</a> · <a href="https://app.webfiable.com">Evaluación rápida</a> · <a href="https://wordpress.org/plugins/webfiable-info/">Plugin en WordPress.org</a>
+  <a href="https://webfiable.com">Web</a> · <a href="https://siteaudit.webfiable.com">Evaluación rápida</a> · <a href="https://wordpress.org/plugins/webfiable-info/">Plugin en WordPress.org</a>
 </p>
 
 ---

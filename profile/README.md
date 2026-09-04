@@ -19,7 +19,7 @@ Webfiable es un servicio que analiza la configuración y seguridad de sitios Wor
 
 Funciona a través de dos vías complementarias:
 
-- **Evaluación rápida:** Ingresa la URL de tu sitio en [siteaudit.webfiable.com](https://siteautit.webfiable.com) y obtén un diagnóstico inmediato basado en el análisis del HTML público: enlaces rotos, contenido mixto, directorios expuestos, protección del login y estado de plugins. Sin instalar nada. Es un buen punto de partida; para resultados con precisión completa, [instala el plugin](https://wordpress.org/plugins/webfiable-info/).
+- **Evaluación rápida:** Ingresa la URL de tu sitio en [siteaudit.webfiable.com](https://siteaudit.webfiable.com) y obtén un diagnóstico inmediato basado en el análisis del HTML público: enlaces rotos, contenido mixto, directorios expuestos, protección del login y estado de plugins. Sin instalar nada. Es un buen punto de partida; para resultados con precisión completa, [instala el plugin](https://wordpress.org/plugins/webfiable-info/).
 
 - **Plugin para WordPress:** Instala [Webfiable Info](https://wordpress.org/plugins/webfiable-info/) y recibe informes semanales por correo con detección precisa basada en los datos reales de tu entorno, no en inferencia por HTML.
 

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://webfiable.com/wp-content/uploads/2025/01/icon2.png" alt="Webfiable" width="60">
+  <img src="https://avatars.githubusercontent.com/u/131711383" alt="Webfiable" width="60">
 </p>
 <h1 align="center">WEBFIABLE</h1>
 
